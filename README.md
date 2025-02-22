@@ -190,17 +190,7 @@ My Courses
 
 ---
 
-## 💡 Contributing
 
-If you'd like to contribute to this project, feel free to fork the repo and create a pull request!
-
-```bash
-git checkout -b feature-branch
-git commit -m "Your message"
-git push origin feature-branch
-```
-
----
 
 ## 📜 License
 
